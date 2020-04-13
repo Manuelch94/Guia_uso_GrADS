@@ -53,7 +53,7 @@ https://www.cpc.ncep.noaa.gov/products/international/grads/Advanced_GrADS_Manual
 http://kodama.fubuki.info/wiki/wiki.cgi/GrADS/script/color.gs?lang=en
 
 
-### Ejemplo 1: Grafico de Viento Zonal
+### Ejemplo 1: Gráfico de Viento Zonal
 Abra el archivo adjunto ```ejemplo1.gs```. Cuando se trabaja con scripts de GrADS estos deben de llevar la extensión ```.gs```. Para ejecutar el ejemplo en la terminal de grads: 
 
 Los comentarios en un GSL se definen con *.
@@ -87,7 +87,7 @@ al utilizar el comando `q file`
 
 * Se puede cambiar los colores de esta paleta de color siguiendo las instrucciones en: http://cola.gmu.edu/grads/gadoc/colorcontrol.html
 
-### Ejemplo 2: Grafico de Líneas de Corriente
+### Ejemplo 2: Gráfico de Líneas de Corriente
 Los comentarios en un GSL se definen con *.
 
 Abra el archivo adjunto ```ejemplo2.gs```. Cuando se trabaja con scripts de GrADS estos deben de llevar la extensión ```.gs```. Para ejecutar el ejemplo en la terminal de grads: 
@@ -108,7 +108,7 @@ Algunos puntos importantes sobre este segundo ejemplo:
 
 * Para desplegar la líneas note que se usa el comando, `d uwnd.1;vwnd.2`. Esto hace referencia a que la variable del archivo 1 `uwnd` se despliega de forma vectorial con la variable del archivo 2 `vwnd`.
 
-### Ejemplo 3: Grafico de Variable con barra de color personalizada
+### Ejemplo 3: Gráfico de Variable con barra de color personalizada
 Abra el archivo adjunto ```ejemplo3.gs```. Cuando se trabaja con scripts de GrADS estos deben de llevar la extensión ```.gs```. Para ejecutar el ejemplo en la terminal de GrADS: 
 
 Los comentarios en un GSL se definen con *.
