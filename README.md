@@ -4,7 +4,7 @@
 Info: *mchaves94@gmail.com* 
 
 
-# Enlaces Importamtes!!
+# Enlaces Importantes!!
 
 http://cola.gmu.edu/grads/gadoc/users.html
 
