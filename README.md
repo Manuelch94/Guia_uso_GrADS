@@ -1,7 +1,14 @@
 # Guía Adicional al uso de GrADS 
 ## Meteorología Sinóptica I 2020
 ### Manuel Chaves A
-Info: *mchaves94@gmail.com* *mchaves@imn.ac.cr*
+Info: *mchaves94@gmail.com* 
+
+
+# Enlaces Importamtes!!
+
+http://cola.gmu.edu/grads/gadoc/users.html
+
+http://cola.gmu.edu/grads/gadoc/tutorial.html
 
 La siguiente guía es de uso adicional al material provisto por el profesor del curso. Se detallaran tres ejemplos de uso común y un cuarto para ejemplificar el uso de ___grads scripting language___ (GSL) de ahora en adelante.
 
